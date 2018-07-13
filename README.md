@@ -2,15 +2,18 @@
 NOTE: right now it's just a notes dump; need to clean it up 
 
 
-```
+
 # Pandas Sample Code
 
+```python
 import pandas as pd
 
 # Reading in a file
 airports = pd.read_csv('data/airports.csv')
 airports.info()  	# NOTE: any object field is essentially a str
+```
 
+```
 
 # -----------  Replacing data ---------------------
 # NOTE: they recommend using method chaining, but I think this old school approach is easier to read (and my datasets are small)
