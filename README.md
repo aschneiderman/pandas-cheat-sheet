@@ -73,7 +73,7 @@ To do: check out using a hierarchical index or flattened table and styling it as
 https://pandas.pydata.org/pandas-docs/stable/style.html
 
 
-## Miscellaneous Code
+## Miscellaneous
 ```python
 games = (games.rename(columns=column_names)
 .dropna(thresh=4)
