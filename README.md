@@ -1,7 +1,7 @@
 # Quick and Dirty Pandas Cheat Sheet
 I don't regularly write new scripts in pandas. This repo is to help me when I need to tweak a script I haven't changed in a while.
 
-(read data) [#read-in-a-file] | (cleanup data)[#cleanup-data] | (merge data)[#merge-data] | (slice and dice data)[#slice-and-dice-data] |  (pandas style)[#pandas-style] | (miscellaneous)[#miscellaneous]
+[read data](#read-in-a-file) | [cleanup data](#cleanup-data) | [merge data](#merge-data) | [slice and dice data](#slice-and-dice-data) |  [pandas style](#pandas-style) | [miscellaneous](#miscellaneous)
 
 NOTE: every pandas script needs to start with:
 
